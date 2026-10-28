@@ -1,0 +1,9 @@
+﻿# Never commit these
+.env
+*.log
+plex_client.py
+*_check.py
+*_stats.py
+*.py
+.venv/
+__pycache__/
